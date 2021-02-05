@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dias-a91b1a18a/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dias-a91b1a18a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/joao_pedro.diias/">
