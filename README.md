@@ -48,7 +48,7 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-- **Systems Analyst**\
+- **Support Analyst**\
 📆 2018 - Moment\
 📍 **GoldSystem** - São José do Rio Preto/SP, Brazil
 
