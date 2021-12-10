@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/acer-razer%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-radeon-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/amd-radeon%graphics-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   
 </details>
 
