@@ -59,10 +59,10 @@
   <summary> ❤ Development</summary>
   
 ## 👨‍💻 Systems
+  
+**Customer Satisfaction Survey**
+  <p>System developed internally for the company's employee to carry out a customer satisfaction survey</p>
 
-  <p align='center'>
-    - **Customer Satisfaction Survey**
-  </p>
   
 </details>
 
