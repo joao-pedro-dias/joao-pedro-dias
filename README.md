@@ -16,8 +16,7 @@
 </p>
 
 <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username={joao-pedro-dias}"></a>
-<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joao-pedro-dias&show_icons=true&count_private=true&theme=dark" width="350"></a> -->
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joao-pedro-dias&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
