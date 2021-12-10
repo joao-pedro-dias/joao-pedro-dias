@@ -62,7 +62,7 @@
   <summary> ❤ Development</summary>
   
 ## 1️⃣ Customer Satisfaction Survey
-  <p>System developed internally for the company's employee to carry out a customer satisfaction survey\
+  System developed internally for the company's employee to carry out a customer satisfaction survey\
     Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
