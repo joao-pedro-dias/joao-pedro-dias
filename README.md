@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <br>
+  </br>
   
 2️⃣ **Completion of course work (TCC)**
   <p>This system's main objective is to connect "fretistas" and "contratantes" so that freight can be carried out</p>
