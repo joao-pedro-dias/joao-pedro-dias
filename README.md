@@ -77,6 +77,16 @@
   
 </details>
 
+<details>
+  <summary> 💼 My Workspace</summary>
+  
+  ## 💻 Notebook
+  
+  <img src="https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
+  <img src="https://img.shields.io/badge/razer-laptop-00FF00?style=for-the-badge&logo=razer&logoColor=white" />
+  
+</details>
+
 <!--
 **joao-pedro-dias/joao-pedro-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Link do README.md profile: https://github.com/alexandresanlim/alexandresanlim/edit/master/README.md
