@@ -63,7 +63,7 @@
   
 ## 1️⃣ Customer Satisfaction Survey
   System developed internally for the company's employee to carry out a customer satisfaction survey\
-    Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente
+  Tradução: Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -73,9 +73,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   
 ## 2️⃣ Completion of course work (TCC)
-  <p>This system's main objective is to connect "fretistas" and "contratantes" so that freight can be carried out</p>
-  <p>Tradução: O objetivo principal deste sistema é conectar "fretistas" e "contratantes" para que o frete possa ser realizado</p>
-  <p>Link: https://github.com/joao-pedro-dias/difrete-backend</p>
+  This system's main objective is to connect "fretistas" and "contratantes" so that freight can be carried out\
+  Tradução: O objetivo principal deste sistema é conectar "fretistas" e "contratantes" para que o frete possa ser realizado\
+  Repositório GitHub: https://github.com/joao-pedro-dias/difrete-backend
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
