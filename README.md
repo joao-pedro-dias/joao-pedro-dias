@@ -110,7 +110,7 @@
   
   ## 💛 Favorite
   
-  <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />
+  <center><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" /></center>
   
 </details>
 
