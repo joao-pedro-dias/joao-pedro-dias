@@ -40,8 +40,8 @@
   
 ## 👨‍🎓 Education
 
-- **Information Systems**\
-📆 2018 - 2022\
+- **Bachelor in Information Systems**\
+📆 2018 - 2021\
 📍 **União das Faculdades dos Grandes Lagos** - São José do Rio Preto, Brazil
 
 ## 👨‍💻 Experience
