@@ -55,6 +55,8 @@
 📍 **GoldSystem** - São José do Rio Preto/SP, Brazil
 
 ## 📃 Certified Tech Developer
+-  **Remote Certification**
+
 📆 fev/2022 - dez/2023\
 📍 **Digital House** - São Paulo/SP, Brazil
 
