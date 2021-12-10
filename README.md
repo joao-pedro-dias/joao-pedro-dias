@@ -8,10 +8,10 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-dias-a91b1a18a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="350"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/joao_pedro.diias/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="350"/>        
   </a>&nbsp;&nbsp;
 </p>
 
@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/acer-Aspire%203-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
     <img src="https://img.shields.io/badge/SSD-256GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/radeon%20graphics-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" width="200" />
+    <img src="https://img.shields.io/badge/radeon%20graphics-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white"/>
   </p>
   
 </details>
