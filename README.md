@@ -75,7 +75,7 @@
 ## 2️⃣ Completion of course work (TCC)
   This system's main objective is to connect "fretistas" and "contratantes" so that freight can be carried out\
   Tradução: O objetivo principal deste sistema é conectar "fretistas" e "contratantes" para que o frete possa ser realizado\
-  Repositório GitHub: https://github.com/joao-pedro-dias/difrete-backend
+  \Repositório GitHub: https://github.com/joao-pedro-dias/difrete-backend
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
