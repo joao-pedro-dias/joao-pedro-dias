@@ -69,7 +69,9 @@
 </details>
 
 <details>
-  <summary>🌐 Favorite Browser</summary>
+  <summary>🌐 Browser</summary>
+  
+  ## 💛 Favorite
   
   <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />
   
