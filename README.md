@@ -61,6 +61,7 @@
   
 ## 1️⃣ Customer Satisfaction Survey
   <p>System developed internally for the company's employee to carry out a customer satisfaction survey</p>
+  <p>Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente</p>
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -71,6 +72,7 @@
   
 ## 2️⃣ Completion of course work (TCC)
   <p>This system's main objective is to connect "fretistas" and "contratantes" so that freight can be carried out</p>
+  <p>O objetivo principal deste sistema é conectar "fretistas" e "contratantes" para que o frete possa ser realizado</p>
   <p>Link: https://github.com/joao-pedro-dias/difrete-backend</p>
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
