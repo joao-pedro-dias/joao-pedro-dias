@@ -67,6 +67,12 @@
 </p>
 
 </details>
+
+<details>
+  <summary>🌐 Favorite Browser</summary>
+  
+</details>
+
 <!--
 **joao-pedro-dias/joao-pedro-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Link do README.md profile: https://github.com/alexandresanlim/alexandresanlim/edit/master/README.md
