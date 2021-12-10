@@ -54,14 +54,16 @@
 📆 2018 - Moment\
 📍 **GoldSystem** - São José do Rio Preto/SP, Brazil
 
+- **Certified Tech Developer**
+  
 </details>
 
 <details>
   <summary> ❤ Development</summary>
   
 ## 1️⃣ Customer Satisfaction Survey
-  <p>System developed internally for the company's employee to carry out a customer satisfaction survey</p>
-  <p>Tradução: Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente</p>
+  <p>System developed internally for the company's employee to carry out a customer satisfaction survey\
+    Sistema desenvolvido internamente para o colaborador da empresa realizar pesquisa de satisfação do cliente
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
