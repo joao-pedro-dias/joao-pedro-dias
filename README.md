@@ -60,7 +60,7 @@
   
 ## 👨‍💻 Systems
   
-** 1️⃣ Customer Satisfaction Survey**
+  1️⃣ **Customer Satisfaction Survey**
   <p>System developed internally for the company's employee to carry out a customer satisfaction survey</p>
 
   
