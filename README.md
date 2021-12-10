@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/acer-Aspire%203-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
     <img src="https://img.shields.io/badge/SSD-256GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/radeon%20graphics-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" width="350" />
+    <img src="https://img.shields.io/badge/radeon%20graphics-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" width="200" />
   </p>
   
 </details>
