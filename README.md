@@ -52,12 +52,6 @@
 📆 2018 - Moment\
 📍 **GoldSystem** - São José do Rio Preto/SP, Brazil
 
-## 📃 Certified Tech Developer
-  
--  **Remote Certification**\
-📆 fev/2022 - dez/2023\
-  📍 <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer">Digital House</a> - São Paulo/SP, Brazil
-
 </details>
 
 <details>
